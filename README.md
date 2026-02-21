@@ -65,4 +65,4 @@ Este é um projeto de estudo, sinta-se à vontade para:
 - Fazer um **Fork** e enviar um **Pull Request** com novas funcionalidades (ex: calcular raiz quadrada, potência, etc).
 
 ---
-✨ Desenvolvido por [Seu Nome] — Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+✨ Desenvolvido por Cayo Durães — Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/cayo-duraes/)
