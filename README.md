@@ -34,7 +34,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 1.  **Pré-requisitos**: Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado.
 2.  **Clonar o repositório**:
     ```bash
-    git clone [https://github.com/seu-usuario/calculadora-csharp.git](https://github.com/seu-usuario/calculadora-csharp.git)
+    git clone (https://github.com/CayoDuraes/calculadora-csharp)
     ```
 3.  **Acessar a pasta**:
     ```bash
@@ -61,7 +61,7 @@ Durante o desenvolvimento deste projeto, pude praticar:
 ## 🤝 Contribuições
 
 Este é um projeto de estudo, sinta-se à vontade para:
-- Abrir uma [Issue](https://github.com/seu-usuario/calculadora-csharp/issues) para sugerir melhorias.
+- Abrir uma [Issue](https://github.com/CayoDuraes/calculadora-csharp/issues) para sugerir melhorias.
 - Fazer um **Fork** e enviar um **Pull Request** com novas funcionalidades (ex: calcular raiz quadrada, potência, etc).
 
 ---
