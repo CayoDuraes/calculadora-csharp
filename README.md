@@ -34,7 +34,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 1.  **Pré-requisitos**: Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado.
 2.  **Clonar o repositório**:
     ```bash
-    git clone (https://github.com/CayoDuraes/calculadora-csharp)
+    git clone https://github.com/CayoDuraes/calculadora-csharp
     ```
 3.  **Acessar a pasta**:
     ```bash
