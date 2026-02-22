@@ -10,7 +10,7 @@ Este é o meu primeiro projeto prático utilizando **C#** e **.NET**. Trata-se d
 
 ## 🚀 Funcionalidades
 
-* **Soma (+)**: Realiza a adição de dois números reais.
+* **Soma (+)**: Realiza a adição de dois números.
 * **Subtração (-)**: Calcula a diferença entre dois valores.
 * **Multiplicação (*)**: Multiplica dois números informados.
 * **Divisão (/)**: Realiza a divisão com **validação de erro**, impedindo divisões por zero.
